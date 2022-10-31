@@ -1,0 +1,15 @@
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\VS REPOS\Loops\Loops\bin\Debug\net6.0\Loops.exe
+D:\VS REPOS\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\VS REPOS\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\VS REPOS\Loops\Loops\bin\Debug\net6.0\Loops.dll
+D:\VS REPOS\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.dll
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+D:\VS REPOS\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll
